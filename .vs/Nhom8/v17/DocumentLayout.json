@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Code\\Lap_1\\Nhom8\\",
+  "WorkspaceRootPath": "D:\\Lab GIT\\Lab-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B434BE2D-A0C9-47CE-A10B-3531065F22AF}|Lap1_2\\Lap1_2.csproj|d:\\code\\lap_1\\nhom8\\lap1_2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B434BE2D-A0C9-47CE-A10B-3531065F22AF}|Lap1_2\\Lap1_2.csproj|d:\\lab git\\lab-1\\lap1_2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B434BE2D-A0C9-47CE-A10B-3531065F22AF}|Lap1_2\\Lap1_2.csproj|solutionrelative:lap1_2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B434BE2D-A0C9-47CE-A10B-3531065F22AF}|Lap1_2\\Lap1_2.csproj|d:\\code\\lap_1\\nhom8\\lap1_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B434BE2D-A0C9-47CE-A10B-3531065F22AF}|Lap1_2\\Lap1_2.csproj|D:\\Lab GIT\\Lab-1\\lap1_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B434BE2D-A0C9-47CE-A10B-3531065F22AF}|Lap1_2\\Lap1_2.csproj|solutionrelative:lap1_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8FFCF69-782C-43AD-84C4-42E27B80CA54}|Nhom8\\Nhom8.csproj|d:\\code\\lap_1\\nhom8\\nhom8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8FFCF69-782C-43AD-84C4-42E27B80CA54}|Nhom8\\Nhom8.csproj|D:\\Lab GIT\\Lab-1\\nhom8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8FFCF69-782C-43AD-84C4-42E27B80CA54}|Nhom8\\Nhom8.csproj|solutionrelative:nhom8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,17 +22,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Code\\Lap_1\\Nhom8\\Lap1_2\\Student.cs",
+              "DocumentMoniker": "D:\\Lab GIT\\Lab-1\\Lap1_2\\Student.cs",
               "RelativeDocumentMoniker": "Lap1_2\\Student.cs",
-              "ToolTip": "D:\\Code\\Lap_1\\Nhom8\\Lap1_2\\Student.cs",
+              "ToolTip": "D:\\Lab GIT\\Lab-1\\Lap1_2\\Student.cs",
               "RelativeToolTip": "Lap1_2\\Student.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAgwCMAAAALAAAAAAAAAA==",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T02:45:33.082Z",
               "EditorCaption": ""
@@ -41,11 +49,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\Lap_1\\Nhom8\\Lap1_2\\Program.cs",
+              "DocumentMoniker": "D:\\Lab GIT\\Lab-1\\Lap1_2\\Program.cs",
               "RelativeDocumentMoniker": "Lap1_2\\Program.cs",
-              "ToolTip": "D:\\Code\\Lap_1\\Nhom8\\Lap1_2\\Program.cs",
+              "ToolTip": "D:\\Lab GIT\\Lab-1\\Lap1_2\\Program.cs",
               "RelativeToolTip": "Lap1_2\\Program.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAiwJgAAAAJAAAAAAAAAA==",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T02:44:51.677Z",
               "EditorCaption": ""
@@ -54,14 +62,13 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\Lap_1\\Nhom8\\Nhom8\\Program.cs",
+              "DocumentMoniker": "D:\\Lab GIT\\Lab-1\\Nhom8\\Program.cs",
               "RelativeDocumentMoniker": "Nhom8\\Program.cs",
-              "ToolTip": "D:\\Code\\Lap_1\\Nhom8\\Nhom8\\Program.cs",
+              "ToolTip": "D:\\Lab GIT\\Lab-1\\Nhom8\\Program.cs",
               "RelativeToolTip": "Nhom8\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAYwCUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T01:59:54.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T01:59:54.045Z"
             }
           ]
         }
