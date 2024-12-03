@@ -1,0 +1,7 @@
+D:\Code\Lap_1\Nhom8\Lap1_2\bin\Debug\Lap1_2.exe.config
+D:\Code\Lap_1\Nhom8\Lap1_2\bin\Debug\Lap1_2.exe
+D:\Code\Lap_1\Nhom8\Lap1_2\bin\Debug\Lap1_2.pdb
+D:\Code\Lap_1\Nhom8\Lap1_2\obj\Debug\Lap1_2.csproj.AssemblyReference.cache
+D:\Code\Lap_1\Nhom8\Lap1_2\obj\Debug\Lap1_2.csproj.CoreCompileInputs.cache
+D:\Code\Lap_1\Nhom8\Lap1_2\obj\Debug\Lap1_2.exe
+D:\Code\Lap_1\Nhom8\Lap1_2\obj\Debug\Lap1_2.pdb

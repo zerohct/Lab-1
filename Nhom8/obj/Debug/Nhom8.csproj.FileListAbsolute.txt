@@ -1,0 +1,7 @@
+D:\Code\Lap_1\Nhom8\Nhom8\bin\Debug\Nhom8.exe.config
+D:\Code\Lap_1\Nhom8\Nhom8\bin\Debug\Nhom8.exe
+D:\Code\Lap_1\Nhom8\Nhom8\bin\Debug\Nhom8.pdb
+D:\Code\Lap_1\Nhom8\Nhom8\obj\Debug\Nhom8.csproj.AssemblyReference.cache
+D:\Code\Lap_1\Nhom8\Nhom8\obj\Debug\Nhom8.csproj.CoreCompileInputs.cache
+D:\Code\Lap_1\Nhom8\Nhom8\obj\Debug\Nhom8.exe
+D:\Code\Lap_1\Nhom8\Nhom8\obj\Debug\Nhom8.pdb
