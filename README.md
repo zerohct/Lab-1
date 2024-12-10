@@ -79,7 +79,7 @@ npm run dev
 
 |                                        Avatar                                         | Tên          | Vai Trò         | Expertise            |
 | :-----------------------------------------------------------------------------------: | ------------ | --------------- | -------------------- |
-| <img src="https://github.com/username1.png" width="100" style="border-radius: 50%;"/> | Nguyễn Văn A | Trưởng Nhóm     | Full-stack Developer |
+| <img src="https://www.facebook.com/photo?fbid=1434525563940655&set=pcb.1434528333940378" width="100" style="border-radius: 50%;"/> | Nguyễn Văn A | Trưởng Nhóm     | Full-stack Developer |
 | <img src="https://github.com/username2.png" width="100" style="border-radius: 50%;"/> | Trần Thị B   | Phát Triển Viên | Frontend Specialist  |
 
 ## 🤝 Hướng Dẫn Đóng Góp
