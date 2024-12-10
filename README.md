@@ -23,27 +23,36 @@
 ## 🛠 Công Nghệ & Công Cụ
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,mongodb,git" />
+    <img src="https://skillicons.dev/icons?i=dotnet,csharp,git" />
 </div>
 
 ### 🔧 Chi Tiết Công Nghệ
 
-- **Frontend**: React, Next.js, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB, Redis
-- **DevOps**: Docker, GitHub Actions
-- **Quản Lý State**: Redux, Context API
+- **Ngôn Ngữ**: C#  
+- **Framework**: .NET (phiên bản 6.0 trở lên)  
+- **IDE**: Visual Studio 2022  
+- **Quản Lý Mã Nguồn**: Git, GitHub  
+- **Thư Viện/Package**:  
+  - System.Linq  
+  - Newtonsoft.Json (nếu sử dụng JSON)  
+  - Các thư viện khác tùy thuộc vào yêu cầu dự án  
 
 ## 🚀 Bắt Đầu Nhanh
 
 
 ### Yêu Cầu Hệ Thống
 
-- 📦 **npm**: Phiên bản 8 trở lên.  
-- 🖥️ **Hệ điều hành**: Windows 10/11, macOS 11+, hoặc Ubuntu 20.04 trở lên.  
-- 🔍 **Trình duyệt hỗ trợ**: Chrome hoặc Firefox (phiên bản mới nhất).  
-- 📂 **Dung lượng ổ cứng**: Ít nhất 1GB dung lượng trống.  
-- 🌐 **Mạng**: Tốc độ internet tối thiểu 10Mbps.  
+- 🖥️ **Hệ điều hành**: 
+  - Windows 10/11 (64-bit).
+  - Ubuntu 20.04+ (nếu sử dụng .NET Core).
+  
+- 🟦 **.NET SDK**: Phiên bản 6.0 trở lên.  
+- 🟧 **Visual Studio**: Phiên bản 2022 với các thành phần sau:  
+  - **ASP.NET and web development** (nếu cần API hoặc web hosting).  
+  - **.NET desktop development** (đối với ứng dụng console).  
+- 📂 **Dung lượng ổ cứng**: Ít nhất 500MB dung lượng trống.  
+- 💾 **RAM**: 4GB tối thiểu (8GB khuyến nghị).  
+- 🌐 **Công cụ quản lý mã nguồn**: Git (phiên bản ≥ 2.30). 
 
 
 ### Cài Đặt Nhanh
@@ -122,3 +131,4 @@ npm run dev
 </div>
 
 **Được phát triển với ❤️ bởi XuanQuang and CongTuong**
+
