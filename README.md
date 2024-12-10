@@ -1,7 +1,8 @@
 # 💎 [Kiểm Tra cách sài git]
 
 <div align="center">
-    <img src="![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlh0BDIgja2qBptwHkYOWGt1G4k3g-q-lrnA&s)" alt="Project Banner" width="100%"/>
+    ![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlh0BDIgja2qBptwHkYOWGt1G4k3g-q-lrnA&s)
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlh0BDIgja2qBptwHkYOWGt1G4k3g-q-lrnA&s" alt="Project Banner" width="100%"/>
 </div>
 
 ## 🌈 Tổng Quan
