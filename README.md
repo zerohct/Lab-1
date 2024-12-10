@@ -1,7 +1,7 @@
 # 💎 [Kiểm Tra cách sài git]
 
 <div align="center">
-    <img src="https://via.placeholder.com/1200x400?text=Project+Banner](https://s3-sgn09.fptcloud.com/codelearnstorage/Upload/Blog/cau-lenh-nao-thuong-dung-trong-git-63726767785.7021.jpg" alt="Project Banner" width="100%"/>
+    <img src="![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlh0BDIgja2qBptwHkYOWGt1G4k3g-q-lrnA&s)" alt="Project Banner" width="100%"/>
 </div>
 
 ## 🌈 Tổng Quan
