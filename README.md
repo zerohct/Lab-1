@@ -12,20 +12,18 @@
 
 ### 🎯 Mục Tiêu Dự Án
 
-> "Một câu slogan ngắn gọn, truyền cảm hứng về dự án của bạn"
+> "Git để hiểu, commit để nhớ, push để thành công!"
 
 ## 📊 Tính Năng Chính
 
 | 🚀 Tính Năng | 🔍 Chi Tiết    | 💡 Lợi Ích     |
 | ------------ | -------------- | -------------- |
-| Tính Năng 1  | Mô tả chi tiết | Lợi ích cụ thể |
-| Tính Năng 2  | Mô tả chi tiết | Lợi ích cụ thể |
-| Tính Năng 3  | Mô tả chi tiết | Lợi ích cụ thể |
+| Đoán Số      | Tìm 3 số đúng  | Giúp giải trí  |
 
 ## 🛠 Công Nghệ & Công Cụ
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,mongodb,docker,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,mongodb,git" />
 </div>
 
 ### 🔧 Chi Tiết Công Nghệ
@@ -38,17 +36,21 @@
 
 ## 🚀 Bắt Đầu Nhanh
 
+
 ### Yêu Cầu Hệ Thống
 
-- 🐳 Docker 20.10+
-- 🟢 Node.js 16+
-- 📦 npm 8+
+- 📦 **npm**: Phiên bản 8 trở lên.  
+- 🖥️ **Hệ điều hành**: Windows 10/11, macOS 11+, hoặc Ubuntu 20.04 trở lên.  
+- 🔍 **Trình duyệt hỗ trợ**: Chrome hoặc Firefox (phiên bản mới nhất).  
+- 📂 **Dung lượng ổ cứng**: Ít nhất 1GB dung lượng trống.  
+- 🌐 **Mạng**: Tốc độ internet tối thiểu 10Mbps.  
+
 
 ### Cài Đặt Nhanh
 
 ```bash
 # Clone dự án
-git clone https://github.com/username/project.git
+git clone https://github.com/zerohct/Lab-1
 
 # Di chuyển vào thư mục dự án
 cd project
@@ -63,15 +65,29 @@ npm run dev
 ## 📦 Cấu Trúc Dự Án
 
 ```
-📁 project-root/
+📁 Lab-1/
 │
-├── 🗂 src/
-│   ├── 🧩 components/
-│   ├── 📄 pages/
-│   ├── 🎨 styles/
-│   └── 🛠 utils/
+├── 🗂 .vs/
 │
-├── 🧪 tests/
+├── 🗂 Lap1_2/
+│   ├── 📄 App.config
+│   ├── 📄 Lap1_2.csproj
+│   ├── 📂 bin/
+│   ├── 📂 obj/
+│   ├── 📂 Properties/
+│   ├── 📄 Program.cs
+│   └── 📄 Student.cs
+│
+├── 🗂 Nhom8/
+│   ├── 📄 App.config
+│   ├── 📄 Nhom8.csproj
+│   ├── 📂 bin/
+│   ├── 📂 obj/
+│   ├── 📂 Properties/
+│   └── 📄 Program.cs
+│
+├── 📄 .gitignore.txt
+├── 📄 Nhom8.sln
 └── 📋 README.md
 ```
 
@@ -79,8 +95,8 @@ npm run dev
 
 |                                        Avatar                                         | Tên          | Vai Trò         | Expertise            |
 | :-----------------------------------------------------------------------------------: | ------------ | --------------- | -------------------- |
-| <img src="https://www.facebook.com/photo?fbid=1434525563940655&set=pcb.1434528333940378" width="100" style="border-radius: 50%;"/> | Nguyễn Văn A | Trưởng Nhóm     | Full-stack Developer |
-| <img src="https://github.com/username2.png" width="100" style="border-radius: 50%;"/> | Trần Thị B   | Phát Triển Viên | Frontend Specialist  |
+| <img src="https://github.com/username1.png" width="100" style="border-radius: 50%;"/> | Phạm Xuân Quảng | Trưởng Nhóm     | Full-stack Developer |
+| <img src="https://github.com/username2.png" width="100" style="border-radius: 50%;"/> | Huỳnh Công Tường   | Phát Triển Viên | Frontend Specialist  |
 
 ## 🤝 Hướng Dẫn Đóng Góp
 
@@ -97,8 +113,7 @@ npm run dev
 
 ## 📧 Liên Hệ
 
-**Email**: contact@project.com
-**Website**: https://project.com
+**Email**: quangpham0613@gmail.com
 
 ---
 
@@ -106,4 +121,4 @@ npm run dev
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </div>
 
-**Được phát triển với ❤️ bởi Đội Ngũ**
+**Được phát triển với ❤️ bởi XuanQuang and CongTuong**
