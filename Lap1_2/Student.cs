@@ -26,14 +26,14 @@ namespace Lap1_2
             this.averageScore = averageScore;
             this.faculty = faculty;
         }
-        //public Student(Student student)
-        //{
-        //    this.StudentID = student.StudentID;
-        //    this.FullName = student.FullName;
-        //    this.averageScore = student.averageScore;
-        //    this.faculty = student.faculty;
+        public Student(Student student)
+        {
+            this.StudentID = student.StudentID;
+            this.FullName = student.FullName;
+            this.averageScore = student.averageScore;
+            this.faculty = student.faculty;
 
-        //}
+        }
         public void Input()
         {
             Console.Write("Nhap MSSV: ");
